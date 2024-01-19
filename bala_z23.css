@@ -1,35 +1,33 @@
 p#zart1
 {
-color: blue;
-font-size: 37px;
+color: #945cce;
+font-size: 32px;
 }
 p#zart2
 {
-color: red;
+color: #94c06a;
 font-size: 37px;
 }
 p#zart3
 {
-color: green;
-font-size: 37px;
+color: #a8c01a;
+font-size: 1.2cm;
 }
 p#zart4
 {
-color: yellow;
-font-size: 37px;
+color: rgba(174, 87%, 61%);
+font-size: 1.9cm;
 }
 p#zart5
 {
-color: magenta;
-font-size: 37px;
+color: #28de6a;
+font-size: 42px;
 }
 p#zart6
 {
-color: black;
-font-size: 37px;
+color: #623e9c;
 }
 p#zart7
 {
-color: orange;
-font-size: 37px;
+color: rgba(45, 56%, 50%);
 }
